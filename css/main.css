@@ -15,6 +15,7 @@ body {
   margin: 0;
   color: #000;
   background-color: #e2e2e2;
+  text-align: left;
 }
 
 section {
@@ -49,4 +50,19 @@ a {
 
 a:hover {
   color: #fff;
+}
+
+@media only screen and (min-width: 38em) {
+
+  div {
+    display: inline-block;
+    width: 45%;
+  }
+
+  img {
+    margin: 0;
+    width: 45%;
+    display: inline-block;
+  }
+
 }
