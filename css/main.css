@@ -78,6 +78,8 @@ a:hover {
   }
 
   img {
+    margin-top: 2em;
     width: 49%;
+    max-width: 470px;
   }
 }
