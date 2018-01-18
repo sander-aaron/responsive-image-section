@@ -59,12 +59,24 @@ a:hover {
   div {
     display: inline-block;
     width: 45%;
+    vertical-align: middle;
   }
 
   img {
+    vertical-align: middle;
     margin: 0;
     width: 45%;
     display: inline-block;
   }
+}
 
+@media only screen and (min-width: 60em) {
+
+  div {
+    width: 46%;
+  }
+
+  img {
+    width: 49%;
+  }
 }
