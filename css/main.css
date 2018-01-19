@@ -77,7 +77,11 @@ a:hover {
   }
 
   .second {
-    margin-bottom: 2em;
+    margin-bottom: 2.5em;
+  }
+
+  a {
+    padding: .5em;
   }
 
   img {
@@ -97,6 +101,10 @@ a:hover {
 
   div {
     width: 46%;
+  }
+
+  h1 {
+    margin-bottom: 1em;
   }
 
   img {
