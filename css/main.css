@@ -101,6 +101,8 @@ a:hover {
 
   div {
     width: 44%;
+    margin: 1.2rem;
+    margin-top: .2em;
   }
 
   h1 {
@@ -111,6 +113,10 @@ a:hover {
     margin-top: 2em;
     width: 55%;
     max-width: 480px;
+  }
+
+  a {
+    padding: .7em;
   }
 }
 
