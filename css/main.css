@@ -76,6 +76,10 @@ a:hover {
     vertical-align: middle;
   }
 
+  .second {
+    margin-bottom: 2em;
+  }
+
   img {
     vertical-align: middle;
     margin: 0;
