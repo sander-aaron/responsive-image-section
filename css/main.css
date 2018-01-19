@@ -100,7 +100,7 @@ a:hover {
   }
 
   div {
-    width: 46%;
+    width: 44%;
   }
 
   h1 {
@@ -108,9 +108,11 @@ a:hover {
   }
 
   img {
+    float: right;
     margin-top: 2em;
-    width: 49%;
-    max-width: 470px;
+    margin-right: .2em;
+    width: 55%;
+    max-width: 480px;
   }
 }
 
