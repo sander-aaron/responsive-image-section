@@ -126,13 +126,21 @@ a:hover {
     font-size: 130%;
   }
 
+  .second {
+    margin-bottom: 2em;
+  }
+
   div {
-    max-width: 420px;
-    margin-left: 2em;
+    max-width: 470px;
+    margin-left: 10.5em;
+    margin-top: 2rem;
   }
 
   img {
-
+    max-width: 520px;
   }
 
+  a {
+    margin: 0;
+  }
 }
